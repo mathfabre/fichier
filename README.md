@@ -1,1 +1,1 @@
-# fichier Grothendieck 
+# Article Grothendieck 
